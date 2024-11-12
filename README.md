@@ -28,3 +28,7 @@ desenhar(Graphics g): Desenha a cobra e a maçã no painel de jogo. Desenha cada
 main(String[] args): Método principal que inicia a aplicação. Cria uma instância da classe Tabuleiro e torna a janela visível.
 
 Esses métodos e atributos juntos formam a estrutura do jogo da cobrinha, permitindo que ele seja configurado, controlado e atualizado dinamicamente com a interação do usuário.
+
+### Diagrama de Classe
+![Screenshot_1](https://github.com/user-attachments/assets/290b8fda-6acc-49f3-90dd-91dd0de5f7f5)
+
