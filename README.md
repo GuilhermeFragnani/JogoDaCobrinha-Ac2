@@ -1,4 +1,4 @@
-#Snake Game Ac2
+# Snake Game Ac2
 
 ## Guilherme Fragnani Pereira - 237057  
 ## Daniel Carro de Andrade - 237010 
